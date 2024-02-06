@@ -10,4 +10,6 @@ To install and run this project - install dependencies using npm and then start 
 $ npm install
 $ npm run dev
 ```
-
+---
+## Design
+![Dessign image](https://github.com/singhpranshu72/ShortURL/blob/main/Screenshot%202024-02-06%20113338.png)
