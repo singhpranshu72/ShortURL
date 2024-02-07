@@ -12,7 +12,7 @@ const userRoute = require("./routes/user");
 const app = express();
 const PORT = 8001;
 
-const url=  "mongodb+srv://singhpranshu:Pritam123@cluster0.puyzt6h.mongodb.net/?retryWrites=true&w=majority";
+const url=  "mongodb+srv://singhpranshu:Password@cluster0.puyzt6h.mongodb.net/?retryWrites=true&w=majority";
 connectToMongoDB(url)
 .then(()=> console.log("DB connected"))
 .catch(err => console.log("error db ",err));
