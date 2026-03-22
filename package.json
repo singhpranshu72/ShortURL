@@ -17,5 +17,8 @@
     "shortid": "^2.2.16",
     "uuid": "^9.0.1"
   },
-  "description": ""
+  "description": "",
+  "overrides": {
+    "fast-xml-parser": "5.5.8"
+  }
 }
